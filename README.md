@@ -1,4 +1,4 @@
-#  Cosmetic-Mount-Prediction
+#  Instant-Dismantle
 
 Weeee, instant dismantle cause why not, we already have instant enchant/upgrade and instant soulbind, might as well finish it off
 
