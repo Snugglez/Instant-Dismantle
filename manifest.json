@@ -1,0 +1,13 @@
+{
+	"files": {
+		"README.md": "20aaf7e16218e10ac0078baa44ee388bcca4c685f7589aec6d766fa959431930",
+		"index.js": "a064b42d54e6f5ab083e780a9b366381126d88c3adfed468ada60ea7c9d53574",
+		"module.json": "daa0fc73799817ea6601887030fae80f270d2e4b31cb916ebe8b5dc27ab7afaf"
+	},
+	"defs": {
+		"C_REQUEST_DECOMPOSITION": 1,
+		"S_CANCEL_CONTRACT": 1,
+		"S_REQUEST_CONTRACT": 1,
+		"S_SHOW_ITEM_TOOLTIP": 9
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"disableAutoUpdate": false,
+    "options": {"niceName": "Instant-Dismantle"},
+	"servers": ["https://raw.githubusercontent.com/Snugglez/Instant-Dismantle/master/"],
+	"supportUrl": "https://github.com/Snugglez/Instant-Dismantle/blob/master/README.md"
+}
