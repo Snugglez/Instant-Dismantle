@@ -1,5 +1,9 @@
 {
 	"disableAutoUpdate": false,
+	"author": "Snug",
+	"description": "Skip the delay when dismantling items",
+	"version": "1.0",
+	"name": "instant-dismantle",
     "options": {"niceName": "Instant-Dismantle"},
 	"servers": ["https://raw.githubusercontent.com/Snugglez/Instant-Dismantle/master/"],
 	"supportUrl": "https://github.com/Snugglez/Instant-Dismantle/blob/master/README.md"
